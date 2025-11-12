@@ -9,7 +9,7 @@ countries={"Алжир": 2382,
            "Ерітрея": 118,
            "Ефіопія": 1104
 }
-f=open("africa.txt", "w")
+f=open("africa11.txt", "w")
 for kraina in countries:
     plosha=countries[kraina]
     line=kraina+ ":" +str(plosha) + "\n"
