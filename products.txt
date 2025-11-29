@@ -1,0 +1,7 @@
+bread: 12
+milk: 28
+apple: 15
+tea: 89
+pie: 66
+cake: 33
+carrot: 28
